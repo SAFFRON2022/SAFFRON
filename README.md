@@ -40,3 +40,27 @@ BSC SCAN LINK
 https://bscscan.com/address/0x66cdd54dfdf653ff288ed3c85d7cdd82ba142ce7#code
 
 https://bscscan.com/token/0x66cdd54dfdf653ff288ed3c85d7cdd82ba142ce7
+
+View Chart
+
+https://poocoin.app/tokens/0x66cdd54Dfdf653FF288eD3c85D7CDD82bA142Ce7
+
+https://pancakeswap.finance/swap/0x66cdd54dfdf653ff288ed3c85d7cdd82ba142ce7
+
+https://www.dextools.io/app/bsc/pair-explorer/0x9f829ff1571b9475ac24d1e3cf9fc23387b96344
+
+https://coinalpha.app/token/0x66cdd54Dfdf653FF288eD3c85D7CDD82bA142Ce7
+
+https://geckoterminal.com/bsc/pools/0x9f829ff1571b9475ac24d1e3cf9fc23387b96344
+
+https://top100token.com/address/0x66cdd54Dfdf653FF288eD3c85D7CDD82bA142Ce7
+
+https://www.tokenshive.com/tokens/0x66cdd54Dfdf653FF288eD3c85D7CDD82bA142Ce7
+
+Timestamp
+
+Dec-29-2021 01:50:22 AM +UTC
+
+Whitpaper
+
+https://qaenatsaffron.com/wp-content/uploads/2022/04/saffron-whitepaper.pdf
