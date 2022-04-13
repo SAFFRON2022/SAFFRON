@@ -12,3 +12,31 @@ Today, very few people are aware of the trend of their food and beverage resourc
 However, the transparency offered by blockchain technology means that everything can be easily viewed by scanning the barcode with your mobile phone and all the necessary information will appear on your screen immediately.
 So since we are all interested in knowing what we consume and how to use it, blockchain technology helps to fulfill this desire and in turn also helps food suppliers to actually Improve the way materials move around the world.
 new blockchain technology and the Internet are revolutionizing food supply, and studies by our experts could be the key to global food security in the near future.
+
+Email
+
+Info@QAENATsaffron.com
+
+saffronqaenat2022@gmail.com
+
+Website
+
+https://QAENATSAFFRON.com
+
+Social media
+
+https://t.me/SAFFRON_QAENAT_Admin
+
+https://twitter.com/Sajjad19960820?t=48lEIRvs_q586RSHI0Ccig&s=09
+
+https://t.me/SAFFRONQAENAT2022
+
+https://github.com/SAFFRON2022/SAFFRON
+
+https://instagram.com/qaenatsaffron2022?utm_medium=copy_link
+
+BSC SCAN LINK
+
+https://bscscan.com/address/0x66cdd54dfdf653ff288ed3c85d7cdd82ba142ce7#code
+
+https://bscscan.com/token/0x66cdd54dfdf653ff288ed3c85d7cdd82ba142ce7
